@@ -1,3 +1,7 @@
+# WARNING
+
+- This script is not tested and should be used on your own risk!
+
 # Youtube Video Uploader
 
 A script to bypass Youtube Data API's 10.000/day query limit (every video query costs like 1.6k so that's 6 videos per day).
